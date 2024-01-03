@@ -49,7 +49,7 @@ A lo largo del curso de desarrollarán varios proyectos, los cuales se indicará
 
 ### Textos:
 
-* [R. Szeliski (2022). *Computer Vision: Algorithms and Applications*.](http://library.lol/main/B1D8C312B0366EDC505AFE47E6C825F0){:target="_blank"}
+* [R. Szeliski (2022). *Computer Vision: Algorithms and Applications*.](http://library.lol/main/5B158374B784FA7FC9D6559B45352EA1){:target="_blank"}
 
 ### Otras Referencias:
 
@@ -57,8 +57,8 @@ A lo largo del curso de desarrollarán varios proyectos, los cuales se indicará
 
 * [R. Hartley y A. Zisserman (2004). *Multiple View Geometry in Computer Vsion*.](http://library.lol/main/14DABCC0A4E8122A553ECE1C75DDD694){:target="_blank"}
 
-* [R. Gonzalez y R. Woods (2011). *Digital Image Processiong*. 3rd Edition](http://library.lol/main/D2A46CA990847C353EF18F0A4270A083){:target="_blank"}
+* [R. Gonzalez y R. Woods (2007). *Digital Image Processiong*. 3rd Edition](http://library.lol/main/D2A46CA990847C353EF18F0A4270A083){:target="_blank"}
 
-* [R. Gonzalez y R. Woods (2011). *Digital Image Processiong*. 4th Edition](http://library.lol/main/D2A46CA990847C353EF18F0A4270A083){:target="_blank"}
+* [R. Gonzalez y R. Woods (2018). *Digital Image Processiong*. 4th Edition](http://library.lol/main/033DDCB069E05B84F9D176DDD7455010){:target="_blank"}
 
 ---
