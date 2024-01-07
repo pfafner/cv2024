@@ -22,7 +22,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 ### Horario
 <div id='id-horario'/>
 
-* Martes, de 17:20 a 18:55 horas. Jueves, de 18:10 a 19:45 horas.
+* Martes, de 18:10 a 19:45 horas. Jueves, de 17:20 a 18:55 horas.
 
 ### Office Hours
 <div id='id-office'/>
