@@ -31,6 +31,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
   **No.**  | **Fecha**    | **Tópicos**                                                       | **Recursos**
   -------- | ------------ | ----------------------------------------------------------------- |  -------------------------------------
   01       | 09.01.2024   | Introducción. Ejemplos de tareas en CV y aplicaciones. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | 
+  02       | 11.01.2024   | Tipos de imágenes: binarias, escala de grises, RGB.  | 
 
 
 # Proyecto de Curso
