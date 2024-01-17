@@ -32,9 +32,11 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
   -------- | ------------ | ----------------------------------------------------------------- |  -------------------------------------
   01       | 09.01.2024   | Introducción. Ejemplos de tareas en CV y aplicaciones. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | 
   02       | 11.01.2024   | Tipos de imágenes: binarias, escala de grises, RGB.  | 
+  03       | 16.01.2024   | Transformaciones básicas. Histogramas. Conversión RGB a gris. Corrección gamma.  | 
+  
 
 
-# Proyecto de Curso
+# Proyectos
 <div id='id-proj'/>
 
 A lo largo del curso de desarrollarán varios proyectos, los cuales se indicarán más adelante.
