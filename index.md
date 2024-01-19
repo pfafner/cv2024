@@ -33,8 +33,9 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
   01       | 09.01.2024   | Introducción. Ejemplos de tareas en CV y aplicaciones. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | 
   02       | 11.01.2024   | Tipos de imágenes: binarias, escala de grises, RGB.  | 
   03       | 16.01.2024   | Transformaciones básicas. Histogramas. Conversión RGB a gris. Corrección gamma.  | 
-  
-
+  04       | 18.01.2024   | Ecualización de histograma. Algoritmos de binarización: Otsu, Riddler-Calvard, local.  |
+  L1       | 18.01.2024   | [Lista 01](listas/lista01.pdf){:target="_blank"} <br/> **Fecha de Entrega: jueves 1 de febrero.** | [saigon.jpeg](listas/saigon.jpeg){:target="_blank"} [monkey.jpeg](listas/monkey.jpeg){:target="_blank"} [rice.jpg](listas/rice.jpg){:target="_blank"}
+ 
 
 # Proyectos
 <div id='id-proj'/>
