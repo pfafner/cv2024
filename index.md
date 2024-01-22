@@ -35,7 +35,6 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 03       | 16.01.2024   | Transformaciones básicas. Histogramas. Conversión RGB a gris. Corrección gamma.  | 
 04       | 18.01.2024   | Ecualización de histograma. Algoritmos de binarización: Otsu, Riddler-Calvard, local.  |
 L1       | 18.01.2024   | [Lista 01](listas/lista01.pdf){:target="_blank"} <br/> **Fecha de Entrega: jueves 1 de febrero.** | [saigon.jpeg](listas/saigon.jpeg){:target="_blank"} [monkey.jpeg](listas/monkey.jpeg){:target="_blank"} [rice.jpg](listas/rice.jpg){:target="_blank"}
-05       |   |   | 
 
 
 # Proyectos
