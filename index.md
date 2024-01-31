@@ -37,6 +37,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 L1       | 18.01.2024   | [Lista 01](listas/lista01.pdf){:target="_blank"} <br/> **Fecha de Entrega: jueves 1 de febrero.** | [saigon.jpeg](listas/saigon.jpeg){:target="_blank"} [monkey.jpeg](listas/monkey.jpeg){:target="_blank"} [rice.jpg](listas/rice.jpg){:target="_blank"}
 05       | 23.01.2024   | Otros algoritmos de binarización. Segmentación de imágenes usando $k$-means.  |
 06       | 25.01.2024   | Comentarios sobre espacios de color, luminancia y cromaticidad.  |
+07       | 09.01.2024   | Operadores Morfológicos. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | 
 
 
 # Proyectos
