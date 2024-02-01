@@ -34,12 +34,12 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 02       | 11.01.2024   | Tipos de imágenes: binarias, escala de grises, RGB.  | 
 03       | 16.01.2024   | Transformaciones básicas. Histogramas. Conversión RGB a gris. Corrección gamma.  | 
 04       | 18.01.2024   | Ecualización de histograma. Algoritmos de binarización: Otsu, Riddler-Calvard, local.  |
-L1       | 18.01.2024   | [Lista 01](listas/lista01.pdf){:target="_blank"} <br/> **Fecha de Entrega: jueves 1 de febrero.** | [saigon.jpeg](listas/saigon.jpeg){:target="_blank"} [monkey.jpeg](listas/monkey.jpeg){:target="_blank"} [rice.jpg](listas/rice.jpg){:target="_blank"}
+T1       | 18.01.2024   | [Lista 01](listas/lista01.pdf){:target="_blank"} <br/> **Fecha de Entrega: jueves 1 de febrero.** | [saigon.jpeg](listas/saigon.jpeg){:target="_blank"} [monkey.jpeg](listas/monkey.jpeg){:target="_blank"} [rice.jpg](listas/rice.jpg){:target="_blank"}
 05       | 23.01.2024   | Otros algoritmos de binarización. Segmentación de imágenes usando $k$-means.  |
 06       | 25.01.2024   | Comentarios sobre espacios de color, luminancia y cromaticidad.  |
 07       | 30.01.2024   | Operadores Morfológicos. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | González y Woods, Cap. 9.
 08       | 01.02.2024   | Componentes Conexas. Operador *Hit or Miss*. <br/> | González y Woods, Cap. 9.
-
+L1       | 01.02.2024   | [Lab 01](labs/lab01.pdf){:target="_blank"} <br/> **Fecha de Entrega: jueves 15 de febrero.** | [fingerprint.jpeg](labs/fingerprint.jpeg){:target="_blank"} [brain-scan.jpeg](labs/brain-scan.jpeg){:target="_blank"} [rice.jpg](labs/rice.jpg){:target="_blank"} [microscope.png](labs/microscope.png){:target="_blank"} [butterfly.jpeg](labs/butterfly.jpeg){:target="_blank"} [quetzalgris.png](labs/quetzalgris.png){:target="_blank"} [chestxray.jpeg](labs/chestxray.jpeg){:target="_blank"}
 
 
 # Proyectos
