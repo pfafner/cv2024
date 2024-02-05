@@ -52,8 +52,8 @@ A lo largo del curso de desarrollarán varios proyectos, los cuales se indicará
 
 **No.**  | **Fecha**    | **Tópicos**                                   | **Recursos**
 -------- | ------------ | --------------------------------------------- |  -------------------------------------
- 1       | 04.02.2024   | Proyecto 1 - *Angiogramas coronarios*.        | [Proyecto 1](proyectos/pr1/Proyecto1.pdf){:target="_blank"} <br/> 
- 2       | 04.03.2024   | Entrega del proyecto.                         | 
+ 1       | 04.02.2024   | Proyecto 1 - *Angiogramas coronarios*.        | [Proyecto 1](proyectos/pr1/Proyecto1.pdf){:target="_blank"} <br/>  [database.zip](proyectos/pr1/database.zip){:target="_blank"} 
+ 2       | 29.02.2024   | Entrega del proyecto.                         | 
 
     
 # Referencias
