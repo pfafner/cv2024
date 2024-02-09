@@ -40,7 +40,8 @@ T1       | 18.01.2024   | [Lista 01](listas/lista01.pdf){:target="_blank"} <br/>
 07       | 30.01.2024   | Operadores Morfológicos. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | González y Woods, Cap. 9.
 08       | 01.02.2024   | Componentes Conexas. Operador *Hit or Miss*. <br/> | González y Woods, Cap. 9.
 L1       | 01.02.2024   | [Lab 01](labs/lab01.pdf){:target="_blank"} <br/> **Fecha de Entrega: jueves 15 de febrero.** | [fingerprint.jpeg](labs/fingerprint.jpeg){:target="_blank"} [brain-scan.jpeg](labs/brain-scan.jpeg){:target="_blank"} [rice.jpg](labs/rice.jpg){:target="_blank"} [microscope.png](labs/microscope.png){:target="_blank"} [butterfly.jpeg](labs/butterfly.jpeg){:target="_blank"} [quetzalgris.png](labs/quetzalgris.png){:target="_blank"} [chestxray.jpeg](labs/chestxray.jpeg){:target="_blank"}
-09       | 06.02.2024   | Filtros lineales. Convolución y correlación. | 
+09       | 06.02.2024   | Filtros lineales. Convolución. Filtro de medias. | 
+10       | 08.02.2024   | Filtros de Prewitt, Sobel y Laplace. Filtros de orden. | 
 
 
 # Proyectos
