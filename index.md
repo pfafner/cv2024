@@ -43,6 +43,7 @@ L1       | 01.02.2024   | [Lab 01](labs/lab01.pdf){:target="_blank"} <br/> **Fec
 09       | 06.02.2024   | Filtros lineales. Convolución. Filtro de medias. | 
 10       | 08.02.2024   | Filtros de Prewitt, Sobel y Laplace. Filtros de orden. | 
 11       | 15.02.2024   | Transformada de Hough. <br/> | 
+12       | 20.02.2024   | Transformada de Fourier en imágenes. <br/> | 
 
 
 # Proyectos
