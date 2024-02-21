@@ -42,7 +42,7 @@ T1       | 18.01.2024   | [Lista 01](listas/lista01.pdf){:target="_blank"} <br/>
 L1       | 01.02.2024   | [Lab 01](labs/lab01.pdf){:target="_blank"} <br/> **Fecha de Entrega: jueves 15 de febrero.** | [fingerprint.jpeg](labs/fingerprint.jpeg){:target="_blank"} [brain-scan.jpeg](labs/brain-scan.jpeg){:target="_blank"} [rice.jpg](labs/rice.jpg){:target="_blank"} [microscope.png](labs/microscope.png){:target="_blank"} [butterfly.jpeg](labs/butterfly.jpeg){:target="_blank"} [quetzalgris.png](labs/quetzalgris.png){:target="_blank"} [chestxray.jpeg](labs/chestxray.jpeg){:target="_blank"}
 09       | 06.02.2024   | Filtros lineales. Convolución. Filtro de medias. | 
 10       | 08.02.2024   | Filtros de Prewitt, Sobel y Laplace. Filtros de orden. | 
-11       |              |   | 
+11       | 15.02.2024   | Transformada de Hough. <br/> | 
 
 
 # Proyectos
