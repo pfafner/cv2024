@@ -45,6 +45,7 @@ L1       | 01.02.2024   | [Lab 01](labs/lab01.pdf){:target="_blank"} <br/> **Fec
 11       | 13.02.2024   | Filtros binarios. Correlación y detección de formas. <br/> | 
 12       | 15.02.2024   | Transformada de Hough. <br/> | 
 13       | 20.02.2024   | Transformada de Fourier en imágenes. <br/> | 
+14       |     |   | 
 
 
 # Proyectos
