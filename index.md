@@ -66,6 +66,15 @@ A lo largo del curso de desarrollarán varios proyectos, los cuales se indicará
  1       | 04.02.2024   | Proyecto 1 - *Angiogramas coronarios*.        | [Proyecto 1](proyectos/pr1/Proyecto1.pdf){:target="_blank"} <br/>  [database.zip](proyectos/pr1/database.zip){:target="_blank"} 
  2       | 29.02.2024   | Entrega del proyecto.                         | 
 
+
+## Proyecto 2
+<div id='id-proj2'/>
+
+**No.**  | **Fecha**    | **Tópicos**                                   | **Recursos**
+-------- | ------------ | --------------------------------------------- |  -------------------------------------
+ 1       | 07.03.2024   | Proyecto 2 - *Detección de objetos*.        | [Proyecto 2](proyectos/pr2/Proyecto2.pdf){:target="_blank"} <br/>
+ 2       | 04.04.2024   | Entrega del proyecto.                         | 
+
     
 # Referencias
 <div id='id-ref'/>
