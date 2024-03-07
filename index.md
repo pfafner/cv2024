@@ -45,7 +45,12 @@ L1       | 01.02.2024   | [Lab 01](labs/lab01.pdf){:target="_blank"} <br/> **Fec
 11       | 13.02.2024   | Filtros binarios. Correlación y detección de formas. <br/> | 
 12       | 15.02.2024   | Transformada de Hough. <br/> | 
 13       | 20.02.2024   | Transformada de Fourier en imágenes. <br/> | 
-14       |     |   | 
+14       | 27.02.2024   | Filtros usando la transformada de Fourier. <br/> | 
+15       | 29.02.2024   | Filtros de Gabor. Bancos de Filtros. <br/> | 
+16       | 05.03.2024   | Filtros de Haar. Detección de objetos con método cascada. Algoritmo de Viola-Jones. | [Paper Viola-Jones (2001)](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf)){:target="_blank"}
+17       | 07.03.2024   | Ejemplos de detección de caras y detección de personas. | 
+
+
 
 
 # Proyectos
