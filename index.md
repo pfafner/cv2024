@@ -48,8 +48,10 @@ L1       | 01.02.2024   | [Lab 01](labs/lab01.pdf){:target="_blank"} <br/> **Fec
 14       | 27.02.2024   | Filtros usando la transformada de Fourier. <br/> | 
 15       | 29.02.2024   | Filtros de Gabor. Bancos de Filtros. <br/> | 
 16       | 05.03.2024   | Filtros de Haar. Detección de objetos con método cascada. Algoritmo de Viola-Jones. | [Paper Viola-Jones (2001)](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf)){:target="_blank"}
-17       | 07.03.2024   | Ejemplos de detección de caras y detección de personas. | 
-
+17       | 07.03.2024   | Ejemplo de detección de caras y detección de personas con Haar. | 
+18       | 12.03.2024   | *Histogram of Gradients* (HOG). <br/> | [Paper Dalal-Triggs (2005)](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf){:target="_blank"} 
+19       | 14.03.2024   | Ejemplo de detección de personas con HOG. <br/> | 
+L2       | 14.03.2024   | [Lab 02](labs/lab02.pdf){:target="_blank"} <br/> **Fecha de Entrega: jueves 21 de marzo.** | [person.png](labs/person.png){:target="_blank"} [volei.jpeg](labs/volei.jpeg){:target="_blank"} 
 
 
 
