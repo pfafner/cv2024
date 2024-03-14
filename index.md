@@ -47,7 +47,8 @@ L1       | 01.02.2024   | [Lab 01](labs/lab01.pdf){:target="_blank"} <br/> **Fec
 13       | 20.02.2024   | Transformada de Fourier en imágenes. <br/> | 
 14       | 27.02.2024   | Filtros usando la transformada de Fourier. <br/> | 
 15       | 29.02.2024   | Filtros de Gabor. Bancos de Filtros. <br/> | 
-16       | 05.03.2024   | Filtros de Haar. Detección de objetos con método cascada. Algoritmo de Viola-Jones. | [Paper Viola-Jones (2001)](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf)){:target="_blank"}
+16a      | 05.03.2024   | Filtros de Haar. Imagen integral. <br/> | [integral-image.ipynb](code/integral-image.ipynb){:target="_blank"} <br/> [bricks1.jpeg](code/bricks1.jpeg){:target="_blank"} 
+16b      | 05.03.2024   | Detección de objetos con método cascada. Algoritmo de Viola-Jones. | [Paper Viola-Jones (2001)](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf)){:target="_blank"}
 17       | 07.03.2024   | Ejemplo de detección de caras y detección de personas con Haar. | 
 18       | 12.03.2024   | *Histogram of Gradients* (HOG). <br/> | [Paper Dalal-Triggs (2005)](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf){:target="_blank"} 
 19       | 14.03.2024   | Ejemplo de detección de personas con HOG. <br/> | 
