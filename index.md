@@ -53,6 +53,8 @@ L1       | 01.02.2024   | [Lab 01](labs/lab01.pdf){:target="_blank"} <br/> **Fec
 18       | 12.03.2024   | *Histogram of Gradients* (HOG). <br/> | [Paper Dalal-Triggs (2005)](https://lear.inrialpes.fr/people/triggs/pubs/Dalal-cvpr05.pdf){:target="_blank"} 
 19       | 14.03.2024   | Ejemplo de detección de personas con HOG. <br/> | 
 L2       | 14.03.2024   | [Lab 02](labs/lab02.pdf){:target="_blank"} <br/> **Fecha de Entrega: jueves 21 de marzo.** | [person.png](labs/person.png){:target="_blank"} [volei.jpeg](labs/volei.jpeg){:target="_blank"} 
+20       | 21.03.2024   | Detector de esquinas de Harris. <br/> | 
+T2       | 21.03.2024   | [Lista 02](listas/lista02.pdf){:target="_blank"} <br/> **Fecha de Entrega: viernes 22 de marzo.** |  
 
 
 
